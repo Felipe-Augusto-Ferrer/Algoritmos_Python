@@ -10,7 +10,6 @@ def imprime_diagonal(matriz):
 matriz2 = [
     [1, 2, 3],
     [4, 5, 6],
-    [7, 8, 9]
-]
+    [7, 8, 9]]
 imprime_diagonal(matriz2)
             
